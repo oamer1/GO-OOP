@@ -1,1 +1,1 @@
-### Hiding employee struct and using constructor function
+### Hiding employee struct and using factory function
