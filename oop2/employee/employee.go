@@ -10,7 +10,7 @@ type employee struct {
 	salary int
 }
 
-// Act as constructor
+// Factory function act as constructor
 func New(name string, salary int) employee{
 	e := employee {name, salary}
 	return e
